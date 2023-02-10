@@ -59,6 +59,8 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features" /> 
+**[useing module]**
+**[useing all? any? filter?]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo" />
@@ -116,9 +118,7 @@ Install this project with:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[pending]**
-- [ ] **[pending]**
-- [ ] **[pending]**
+- [ ] **[Test the same funcionality as methods in EnumerableTest the same funcionality as methods in Enumerable]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
